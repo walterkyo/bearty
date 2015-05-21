@@ -20,7 +20,7 @@
     </system.web>
   <connectionStrings>
     <add name="ApplicationServices" connectionString="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" providerName="System.Data.SqlClient"/>
-    <add name="ConnectionString" connectionString="Provider=SQLOLEDB;User ID=bearty_admin;Password=R5XxRXmn;Data Source=mssql.bearty.hk;Initial Catalog=beartydb" providerName="System.Data.OleDb"/>
+    <add name="ConnectionString" connectionString="Provider=SQLOLEDB;User ID=user;Password=password;Data Source=domain;Initial Catalog=beartydb" providerName="System.Data.OleDb"/>
   </connectionStrings>
   
   <system.webServer>
