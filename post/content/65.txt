@@ -1,0 +1,1 @@
+測試<img src='./post/img/60.jpg' width = '20%'/>
